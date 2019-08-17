@@ -30,6 +30,14 @@ public class MainActivity extends AppCompatActivity {
 
                 /////comments added from web brower
 
+
+                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+                        .setAction("Action", null).show();
+
+
+                //before pulling from master branch
+                //push this comments to master
+
             }
         });
 
